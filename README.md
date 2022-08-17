@@ -69,6 +69,8 @@ Les sous-Classes hériteront de tout les attributs et de toutes les méthodes de
 
 ## Programmation
 
+### Prise en main
+
 Pour faciliter la prise en main de l'application j'ai écrit ces quelques lignes dans le "main" pour ne pas partir d'un programme vierge.
 
 <img width="1127" alt="support1" src="https://user-images.githubusercontent.com/65901064/185021271-127a5eb5-3988-4ad7-88cc-d98e435e08d1.png">
@@ -77,16 +79,44 @@ Vous n'avez plus qu'à lancer le programme afin d'intéragir avec ce dernier en 
 
 <img width="250" alt="support2" src="https://user-images.githubusercontent.com/65901064/185021792-50312126-2bd8-4f87-b5fc-6353e90152d0.png">
 
-// TODO
-| Interface
-| Classes
-| Variables -> déclaration, instanciation
-| Conditions
-| Boucles
-| Menus 
-| Méthodes
-| Constructeurs
-| Getters / Setters
-| Tips
+### Classes
 
-... retour d'expérience
+<img width="241" alt="Capture d’écran 2022-08-17 à 11 36 03" src="https://user-images.githubusercontent.com/65901064/185087549-a440d8e4-a1d7-4508-9007-967e2c20267d.png">
+
+
+### Variables
+
+<img width="313" alt="Capture d’écran 2022-08-17 à 11 39 29" src="https://user-images.githubusercontent.com/65901064/185087709-2976e8fe-f74e-47ba-a329-d0996d692cba.png">
+
+
+### Constructeurs
+
+<img width="488" alt="Capture d’écran 2022-08-17 à 11 39 37" src="https://user-images.githubusercontent.com/65901064/185087760-5090ca31-5f2c-45fb-85f7-f4459f6f5b04.png">
+
+
+### Getters/Setters
+
+<img width="290" alt="Capture d’écran 2022-08-17 à 11 39 45" src="https://user-images.githubusercontent.com/65901064/185087802-ceaac083-92f8-465e-af4d-5a3246ab9523.png">
+
+<img width="290" alt="Capture d’écran 2022-08-17 à 11 39 45" src="https://user-images.githubusercontent.com/65901064/185087962-d83a512f-77d5-43fe-a7fb-b30f77b81499.png">
+
+
+### Méthodes (classes)
+
+<img width="563" alt="Capture d’écran 2022-08-17 à 11 48 37" src="https://user-images.githubusercontent.com/65901064/185089217-8bad5e5b-2234-4d08-ac76-0cd376fbf4c5.png">
+
+
+### Executable
+
+
+
+### Structures de contrôle
+
+
+
+### Tips
+
+
+
+
+## Conclusion
