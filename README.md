@@ -4,7 +4,7 @@
 
 Cette application en ligne de commande est développée en Java.
 Ce travail est effecté dans le cadre de ma formation de concepteur web supervisé par mon formateur : Mr Essadik.
-J'ai choisi de représenter une fédération de football car ce sport fait parti de ma vie, ce qui m'a aidé a travaillé en dehors de mes heures de formation.
+J'ai choisi de représenter une fédération de football car ce sport me passonne depuis petit, ce qui m'a aidé a travaillé en dehors de mes heures de formation.
 
 Le projet représente vulgairement une fédération de football, le but étant de montrer mes compétences acquises au cours de mon premier mois de formation, et non de resrtucturer la fédération française de football.
 
