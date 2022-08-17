@@ -108,6 +108,9 @@ Vous n'avez plus qu'à lancer le programme afin d'intéragir avec ce dernier en 
 
 ### Executable
 
+<img width="242" alt="Capture d’écran 2022-08-17 à 12 28 33" src="https://user-images.githubusercontent.com/65901064/185098017-07206314-d6e2-4270-9238-fddeff0d797b.png">
+
+
 <img width="652" alt="Capture d’écran 2022-08-17 à 12 03 54" src="https://user-images.githubusercontent.com/65901064/185093681-21ad17fd-0b82-4ceb-b823-545da3781a54.png">
 
 
@@ -120,12 +123,31 @@ Vous n'avez plus qu'à lancer le programme afin d'intéragir avec ce dernier en 
 <img width="544" alt="Capture d’écran 2022-08-17 à 12 05 49" src="https://user-images.githubusercontent.com/65901064/185093573-9f40c3d6-e280-4d4b-8a63-1f823f0b584b.png">
 
 
-### Structures de contrôle
+<img width="353" alt="Capture d’écran 2022-08-17 à 12 06 01" src="https://user-images.githubusercontent.com/65901064/185094384-ec41de7f-39ef-4a7e-bba0-0e01008bd9bd.png">
 
 
+<img width="597" alt="Capture d’écran 2022-08-17 à 12 23 13" src="https://user-images.githubusercontent.com/65901064/185098150-758d0ade-4459-4f4c-a692-239d6c8856cc.png">
 
-### Tips
 
+<img width="597" alt="Capture d’écran 2022-08-17 à 12 23 13" src="https://user-images.githubusercontent.com/65901064/185098280-dbb393ca-1676-4daa-87ac-b5d0f2723513.png">
+
+
+<img width="546" alt="Capture d’écran 2022-08-17 à 12 23 30" src="https://user-images.githubusercontent.com/65901064/185098408-6f36ea6e-dd77-4217-82a7-a63fe44f4768.png">
+
+
+<img width="575" alt="Capture d’écran 2022-08-17 à 12 24 17" src="https://user-images.githubusercontent.com/65901064/185098487-82734ded-5ad3-49d1-be4c-f93eae00bc01.png">
+
+
+<img width="477" alt="Capture d’écran 2022-08-17 à 12 23 52" src="https://user-images.githubusercontent.com/65901064/185098577-8f65a196-b200-4c35-a3c8-39da762cc7e7.png">
+
+
+<img width="623" alt="Capture d’écran 2022-08-17 à 12 24 06" src="https://user-images.githubusercontent.com/65901064/185098633-4f07f867-1bc6-4a00-87ec-395da46eba44.png">
+
+
+<img width="818" alt="Capture d’écran 2022-08-17 à 12 38 41" src="https://user-images.githubusercontent.com/65901064/185099171-b58ce25f-95b8-411e-8724-da321398dbf0.png">
+
+
+<img width="874" alt="Capture d’écran 2022-08-17 à 12 26 41" src="https://user-images.githubusercontent.com/65901064/185099231-05ff4f8f-0ef6-4650-98c6-b2556554bcc3.png">
 
 
 
