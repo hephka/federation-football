@@ -16,4 +16,7 @@ Pour illustrer ce à quoi devrait ressembler le programme j'ai modélisé les cl
 ## Programmation
 
 Pour faciliter la prise en main de l'application j'ai écrit ces quelques lignes dans le main pour ne pas partir d'un programme vierge.
-![Uploading support1.png…]()
+<img width="1127" alt="support1" src="https://user-images.githubusercontent.com/65901064/185021271-127a5eb5-3988-4ad7-88cc-d98e435e08d1.png">
+
+Vous n'avez plus qu'à lancer le programme afin d'intéragir avec ce dernier en utilisant les lignes de commandes.
+<img width="250" alt="support2" src="https://user-images.githubusercontent.com/65901064/185021792-50312126-2bd8-4f87-b5fc-6353e90152d0.png">
