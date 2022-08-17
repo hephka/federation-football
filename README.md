@@ -1,5 +1,7 @@
 # Gestion d'une fédération de football
 
+## Introdution
+
 Cette application en ligne de commande est développée en Java.
 Ce travail est effecté dans le cadre de ma formation de concepteur web supervisé par mon formateur : Mr Essadik.
 J'ai choisi de représenter une fédération de football car ce sport fait parti de ma vie, ce qui m'a aidé a travaillé en dehors de mes heures de formation.
@@ -7,11 +9,23 @@ J'ai choisi de représenter une fédération de football car ce sport fait parti
 Le projet représente vulgairement une fédération de football, le but étant de montrer mes compétences acquises au cours de mon premier mois de formation, et non de resrtucturer la fédération française de football.
 
 
-## Diagramme de classe
+## Modélisation
+
+### Diagramme de classe
 
 Pour illustrer ce à quoi devrait ressembler le programme j'ai modélisé les classes de notre système ainsi que leurs objets à l'aide d'un diagramme de classe. Ceci va nous permettre de décrire le système en visualisant les différents types d’objets au sein d’un système et les types de relations statiques qui existent entre eux. Il illustre également les opérations et les attributs des classes.
 
 <img width="679" alt="DC_Federation_Football" src="https://user-images.githubusercontent.com/65901064/184361172-d6564055-8fba-4cc5-904c-3545b1ad8d21.png">
+
+### Classes et objets
+
+Dans notre cas nous avons les classes Club, Equipe, Competition, Match, Personne, Joueur et Staff.
+Chaque classe possède ses propres attributs et méthodes.
+Nous nous servirons de ses classes pour instancier nos objets.
+
+### Attributs
+
+
 
 // TODO
 | Classes et objets.
