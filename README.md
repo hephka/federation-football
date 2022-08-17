@@ -108,6 +108,16 @@ Vous n'avez plus qu'à lancer le programme afin d'intéragir avec ce dernier en 
 
 ### Executable
 
+<img width="652" alt="Capture d’écran 2022-08-17 à 12 03 54" src="https://user-images.githubusercontent.com/65901064/185093681-21ad17fd-0b82-4ceb-b823-545da3781a54.png">
+
+
+<img width="473" alt="Capture d’écran 2022-08-17 à 12 04 02" src="https://user-images.githubusercontent.com/65901064/185093805-a701f63c-b26c-422e-b4ec-30a5eff732df.png">
+
+
+<img width="600" alt="Capture d’écran 2022-08-17 à 12 04 58" src="https://user-images.githubusercontent.com/65901064/185093868-09b07706-f6f0-4142-a4c1-5bba90b1b6d1.png">
+
+
+<img width="544" alt="Capture d’écran 2022-08-17 à 12 05 49" src="https://user-images.githubusercontent.com/65901064/185093573-9f40c3d6-e280-4d4b-8a63-1f823f0b584b.png">
 
 
 ### Structures de contrôle
